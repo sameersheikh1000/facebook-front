@@ -1,0 +1,856 @@
+.one {
+    width: 50px;
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    border-radius: 50px 50px 50px 50px;
+    /* border-radius: 30px 60x 30px 30px; */
+
+
+
+}
+
+.main {
+    background-color: rgb(211, 233, 224);
+    height: 81px;
+    width: 100%;
+
+
+
+}
+
+.two {
+    width: 200px;
+    height: 30px;
+    position: absolute;
+    top: 30px;
+    left: 100px;
+    border-radius: 5px 5px 5px 5px;
+
+
+
+}
+
+.home {
+    width: 50px;
+    position: absolute;
+    top: 28px;
+    left: 500px;
+    border-radius: 40px 40px 40px 40px;
+
+
+}
+
+.video {
+
+    width: 45px;
+    position: absolute;
+    top: 31px;
+    left: 590px;
+
+
+
+}
+
+.logo {
+
+
+    width: 40px;
+    position: absolute;
+    top: 26px;
+    left: 680px;
+    border-radius: 40px 40px 40px 40px;
+
+}
+
+.group {
+
+    width: 40px;
+    position: absolute;
+    top: 34px;
+    left: 760px;
+
+
+}
+
+.menu {
+    width: 30px;
+    position: absolute;
+    top: 30px;
+    left: 1060px;
+
+
+}
+
+.messenger {
+    width: 30px;
+    position: absolute;
+    top: 30px;
+    left: 1130px;
+
+
+
+}
+
+.not {
+    width: 30px;
+    position: absolute;
+    top: 30px;
+    left: 1200px;
+
+
+}
+
+.div {
+    background-color: rgb(235, 196, 196);
+    width: 45px;
+    position: absolute;
+    top: 25px;
+    height: 45px;
+    left: 1270px;
+    border-radius: 30px 30px 30px 30px;
+
+
+
+}
+
+.sameer {
+    width: 100%;
+    height: 630px;
+    background-color: rgb(177, 216, 216);
+    position: absolute;
+    top: 88px;
+    left: 7px;
+
+
+
+}
+
+.sss {
+    background-color: rgb(84, 167, 167);
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 100px;
+    left: 10px;
+    border-radius: 30px 30px 30px 30px;
+
+
+
+}
+
+.friend {
+    /* height: 40px; */
+    width: 40px;
+    position: absolute;
+    top: 170px;
+    left: 15px;
+    border-radius: 20px 20px 20px 20px;
+
+
+
+}
+
+.HEADING {
+    position: absolute;
+    top: 100px;
+    left: 70px;
+
+
+}
+
+.friends {
+    position: absolute;
+    top: 160px;
+    left: 70px;
+
+
+}
+
+.cartoon {
+    width: 40px;
+    /* height: 40px; */
+    position: absolute;
+    top: 230px;
+    left: 13px;
+    border-radius: 30px 30px 30px 30px;
+
+
+}
+
+.watch {
+    width: 40px;
+    height: 35px;
+    position: absolute;
+    top: 290px;
+    left: 13px;
+    border-radius: 30px 30px 30px 30px;
+
+
+}
+
+.clock {
+    width: 40px;
+    /* height: 40px; */
+    position: absolute;
+    top: 350px;
+    left: 13px;
+    border-radius: 30px 30px 30px 30px;
+
+
+}
+
+.save {
+    width: 40px;
+    /* height: 40px; */
+    position: absolute;
+    top: 413px;
+    left: 13px;
+    border-radius: 30px 30px 30px 30px;
+}
+
+.flag {
+    width: 40px;
+    /* height: 40px; */
+    position: absolute;
+    top: 475px;
+    left: 13px;
+    border-radius: 30px 30px 30px 30px;
+
+
+}
+
+.rell {
+    width: 40px;
+    /* height: 40px; */
+    position: absolute;
+    top: 535px;
+    left: 13px;
+    border-radius: 30px 30px 30px 30px;
+
+
+}
+
+.events {
+    width: 40px;
+    /* height: 40px; */
+    position: absolute;
+    top: 595px;
+    left: 13px;
+    border-radius: 30px 30px 30px 30px;
+
+
+}
+
+
+.most {
+    width: 40px;
+    /* height: 40px; */
+    position: absolute;
+    top: 650px;
+    left: 15px;
+    border-radius: 30px 30px 30px 30px;
+
+
+}
+
+.gro {
+    position: absolute;
+    top: 220px;
+    left: 70px;
+
+
+
+}
+
+.WAT {
+    position: absolute;
+    top: 278px;
+    left: 70px;
+}
+
+.MEM {
+    position: absolute;
+    top: 338px;
+    left: 70px;
+}
+
+.SAV {
+    position: absolute;
+    top: 395px;
+    left: 70px;
+}
+
+.PAG {
+    position: absolute;
+    top: 460px;
+    left: 70px;
+}
+
+.REE {
+    position: absolute;
+    top: 525px;
+    left: 70px;
+}
+
+.EVE {
+    position: absolute;
+    top: 590px;
+    left: 70px;
+}
+
+.MOS {
+    position: absolute;
+    top: 640px;
+    left: 70px;
+}
+
+.ss {
+    width: 35%;
+    height: 630px;
+    background-color: rgb(145, 179, 207);
+
+
+}
+
+.kk {
+    width: 35%;
+    height: 630px;
+    background-color: rgb(0, 255, 255);
+
+
+}
+
+.zyto {
+    width: 520px;
+    height: 280px;
+    background-color: rgb(236, 240, 237);
+    position: absolute;
+    top: 110px;
+    left: 400px;
+    border-radius: 20px 20px 20px 20px;
+
+
+}
+
+.atco {
+    width: 120px;
+    height: 180px;
+    /* background-color: brown; */
+    background-color: rgb(130, 142, 177);
+    position: absolute;
+    top: 180px;
+    left: 405px;
+    border-radius: 15px 15px 15px 15px;
+
+
+}
+
+.gets {
+    width: 120px;
+    height: 180px;
+    background-color: rgb(130, 142, 177);
+    position: absolute;
+    top: 180px;
+    left: 530px;
+    border-radius: 15px 15px 15px 15px;
+
+
+}
+
+.hilton {
+    width: 120px;
+    height: 180px;
+    background-color: rgb(130, 142, 177);
+    position: absolute;
+    top: 180px;
+    left: 655px;
+    border-radius: 15px 15px 15px 15px;
+
+
+}
+
+.ascard {
+    width: 120px;
+    height: 180px;
+    background-color: rgb(130, 142, 177);
+    position: absolute;
+    top: 180px;
+    left: 780px;
+    border-radius: 15px 15px 15px 15px;
+
+
+}
+
+.amarant {
+    width: 510px;
+    height: 150px;
+    background-color: rgb(233, 229, 236);
+    position: absolute;
+    top: 400px;
+    left: 410px;
+    border-radius: 15px 15px 15px 15px;
+
+
+
+
+}
+
+.sanofi {
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    position: absolute;
+    top: 410px;
+    left: 430px;
+    border-radius: 25px 25px 25px 25px;
+
+
+
+}
+
+.macter {
+    width: 350px;
+    height: 30px;
+    position: absolute;
+    top: 420px;
+    left: 500px;
+    border-radius: 15px 15px 15px 15px;
+
+
+}
+
+.live {
+    width: 40px;
+    position: absolute;
+    top: 480px;
+    left: 430px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.heading {
+
+    position: absolute;
+    top: 475px;
+    left: 490px;
+
+}
+
+.frame {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 480px;
+    left: 590px;
+    border-radius: 20px 20px 20px 20px;
+
+}
+.pvideo{
+
+    position: absolute;
+    top: 470px;
+    left: 640px;
+
+}
+.feel{
+width: 40px;
+height: 40px;
+position: absolute;
+top: 480px;
+left: 750px;
+border-radius: 20px 20px 20px 20px;
+
+
+
+}
+.feeling{
+    position: absolute;
+    top: 470px;
+    left: 805px;
+
+
+}
+.stor{
+
+    position: absolute;
+    top: 110px;
+    left: 450px;
+
+}
+
+.sles{
+
+
+    position: absolute;
+    top: 110px;
+    left: 620px;
+
+}
+
+.room{
+
+    position: absolute;
+    top: 110px;
+    left: 770px;
+
+}
+.three{
+width: 480px;
+height: 60px;
+background-color: rgb(229, 241, 245);
+
+position: absolute;
+top: 553px;
+left: 420px;
+border-radius: 20px 20px 20px 20px;
+
+
+}
+.for{
+width: 40px ;
+height: 40px;
+background-color: rgb(26, 75, 209);
+position: absolute;
+top: 555px;
+left: 430px;
+border-radius: 20px 20px 20px 20px;
+
+
+
+}
+.sheikh{
+position: absolute;
+top:545px ;
+left: 480px;
+
+
+
+}
+.paragraph{
+
+    position: absolute;
+top:570px ;
+left: 480px;
+}
+.lo{
+    width: 20px ;
+    height: 20px;
+    background-color: rgb(26, 75, 209);
+    position: absolute;
+    top: 585px;
+    left: 510px;
+    border-radius: 10px 10px 10px 10px;
+    /* border-radius: 20px 20px 20px 20px; */
+
+}
+.werrick{
+/* width: 100px; */
+ position: absolute;
+top:550px ;
+left: 850px;
+
+}
+.man{
+
+    width: 100px ;
+    height: 110px;
+    background-color: rgb(26, 75, 209);
+    position: absolute;
+    top: 164px;
+    left: 1000px;
+    border-radius: 10px 10px 10px 10px;
+    /* border-radius: 20px 20px 20px 20px; */
+
+}
+.tree{
+
+    width: 100px ;
+    height: 110px;
+    background-color: rgb(26, 75, 209);
+    position: absolute;
+    top: 290px;
+    left: 1000px;
+    border-radius: 10px 10px 10px 10px;
+
+}
+.sponsored{
+
+    position: absolute;
+    top:100px ;
+    left: 1000px;
+
+}
+.univ{
+
+
+    position: absolute;
+    top:310px ;
+    left: 1130px;
+
+}
+
+.SEARCH{
+
+
+
+    position: absolute;
+    top:330px ;
+    left: 1130px;
+
+}
+.start{
+
+
+    position: absolute;
+    top:170px ;
+    left: 1130px;
+    
+}
+
+.req{
+
+
+
+    position: absolute;
+    top:420px ;
+    left: 1020px;
+
+}
+.sea{
+
+
+    position: absolute;
+    top:420px ;
+    left: 1270px;
+
+
+}
+.line{
+width: 500px;
+
+
+position: absolute;
+top:410px ;
+left: 1000px;
+}
+
+.shadab{
+width: 50px;
+height: 50px;
+border-radius: 30px 30px 30px 30px;
+
+position: absolute;
+top:490px ;
+left: 1000px;
+
+}
+.shabir{
+
+
+    position: absolute;
+    top:470px ;
+    left: 1060px;
+
+}
+.six{
+
+
+
+
+    width: 20px;
+    height: 20px;
+    border-radius: 30px 30px 30px 30px;
+    
+    position: absolute;
+    top:520px ;
+    left: 1060px;
+
+
+}
+.seven{
+/* width: 20px; */
+
+width: 20px;
+height: 20px;
+border-radius: 30px 30px 30px 30px;
+
+position: absolute;
+top:520px ;
+left: 1075px;
+
+
+}
+.mutual{
+
+    position: absolute;
+    top:500px ;
+    left: 1100px;
+
+
+}
+.day{
+
+
+    position: absolute;
+    top:470px ;
+    left: 1300px;
+
+}
+.border{
+
+    width: 110px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: blue;
+    position: absolute;
+    top:550px ;
+    left: 1075px;
+
+
+}
+.cl{
+
+    /* width: 110px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: rgb(211, 211, 228); */
+    position: absolute;
+    top:540px ;
+    left: 1090px;
+    color: white;
+
+}
+.push{
+
+
+
+
+    width: 110px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: rgb(188, 188, 209);
+    position: absolute;
+    top:550px ;
+    left: 1200px;
+
+}
+.del{
+
+    position: absolute;
+    top:540px ;
+    left: 1230px;
+
+}
+.ivermite{
+
+
+    width: 40px;
+    height: 40px;
+    border-radius: 30px 30px 30px 30px;
+    background-color: yellow;
+    position: absolute;
+    top:185px ;
+    left: 410px;
+
+
+
+}
+.ten{
+
+
+    width: 40px;
+    height: 40px;
+    border-radius: 30px 30px 30px 30px;
+    background-color: yellow;
+    position: absolute;
+    top:185px ;
+    left: 535px;
+
+
+
+
+
+}
+.eleven{
+
+
+
+    width: 40px;
+    height: 40px;
+    border-radius: 30px 30px 30px 30px;
+    background-color: yellow;
+    position: absolute;
+    top:185px ;
+    left: 660px;
+
+
+}
+.twelve{
+
+
+
+
+    width: 40px;
+    height: 40px;
+    border-radius: 30px 30px 30px 30px;
+    background-color: yellow;
+    position: absolute;
+    top:185px ;
+    left: 785px;
+
+
+
+}
+.thir{
+
+
+
+    width: 10px;
+    height: 10px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: green;
+    position: absolute;
+    top:216px ;
+    left: 438px;
+
+
+
+}
+.fif{
+background-color: white;
+width: 7px;
+height: 7px;
+border-radius: 10px 10px 10px 10px ;
+position: absolute;
+top:420px ;
+left: 460px;
+
+
+
+
+}
+.sixt{
+
+    background-color: white;
+    width: 7px;
+    height: 7px;
+    border-radius: 10px 10px 10px 10px ;
+    position: absolute;
+    top:420px ;
+    left: 442px;
+
+
+}
+.sevent{
+
+
+    background-color:white;
+    width: 13px;
+    height: 5px;
+    border-radius: 10px 10px 10px 10px ;
+    position: absolute;
+    top:436px ;
+    left: 448px;
+
+
+}
